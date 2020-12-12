@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Radosław Król's Github Page
 
-You can use the [editor on GitHub](https://github.com/RadekKrol/RadekKrol.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page will consists of various introductory courses to such languages as Python, R and Julia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below there is still default text that will be replaced in the future.
 
 ### Markdown
 
